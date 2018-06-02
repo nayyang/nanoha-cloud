@@ -10,6 +10,8 @@
 
     <modules>
         <module>nanoha-eureka-server</module>
+
+        <module>nanoha-base</module>
     </modules>
 
 </project>
