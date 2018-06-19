@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/nanoha.iml" filepath="$PROJECT_DIR$/nanoha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nanoha-as.iml" filepath="$PROJECT_DIR$/nanoha-as.iml" />
       <module fileurl="file://$PROJECT_DIR$/nanoha-base/nanoha-base.iml" filepath="$PROJECT_DIR$/nanoha-base/nanoha-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/nanoha-boot-common/nanoha-boot-common.iml" filepath="$PROJECT_DIR$/nanoha-boot-common/nanoha-boot-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/nanoha-boot-demo/nanoha-boot-demo.iml" filepath="$PROJECT_DIR$/nanoha-boot-demo/nanoha-boot-demo.iml" />

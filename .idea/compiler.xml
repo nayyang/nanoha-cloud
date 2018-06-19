@@ -20,18 +20,18 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="nanoha" target="1.5" />
-      <module name="nanoha-base" target="1.5" />
-      <module name="nanoha-boot-common" target="1.5" />
-      <module name="nanoha-boot-demo" target="1.5" />
-      <module name="nanoha-boot-provider" target="1.5" />
-      <module name="nanoha-cloud-common" target="1.6" />
-      <module name="nanoha-cloud-config-server" target="1.5" />
-      <module name="nanoha-cloud-registry" target="1.5" />
-      <module name="nanoha-cloud-reverse-proxy" target="1.5" />
-      <module name="nanoha-cloud-server-0" target="1.5" />
-      <module name="nanoha-cloud-server-1" target="1.5" />
-      <module name="nanoha-eureka-server" target="1.8" />
+      <module name="nanoha-as" target="1.5" />
+      <module name="nanoha-base" target="8" />
+      <module name="nanoha-boot-common" target="8" />
+      <module name="nanoha-boot-demo" target="8" />
+      <module name="nanoha-boot-provider" target="8" />
+      <module name="nanoha-cloud-common" target="8" />
+      <module name="nanoha-cloud-config-server" target="8" />
+      <module name="nanoha-cloud-registry" target="8" />
+      <module name="nanoha-cloud-reverse-proxy" target="8" />
+      <module name="nanoha-cloud-server-0" target="8" />
+      <module name="nanoha-cloud-server-1" target="8" />
+      <module name="nanoha-eureka-server" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

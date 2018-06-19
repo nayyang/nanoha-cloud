@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.nanoha:nanoha-cloud-common:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/dkc-repository/com/nanoha/nanoha-cloud-common/1.0.0-SNAPSHOT/nanoha-cloud-common-1.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/nanoha-cloud-common/nanoha-cloud-common-1.0.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://D:/dkc-repository/com/nanoha/nanoha-cloud-common/1.0.0-SNAPSHOT/nanoha-cloud-common-1.0.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/nanoha-cloud-common/nanoha-cloud-common-1.0.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://D:/dkc-repository/com/nanoha/nanoha-cloud-common/1.0.0-SNAPSHOT/nanoha-cloud-common-1.0.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
