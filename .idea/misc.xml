@@ -13,10 +13,11 @@
         <option value="$PROJECT_DIR$/nanoha-cloud-reverse-proxy/pom.xml" />
         <option value="$PROJECT_DIR$/nanoha-cloud-server-0/pom.xml" />
         <option value="$PROJECT_DIR$/nanoha-cloud-server-1/pom.xml" />
+        <option value="$PROJECT_DIR$/nanoha-kafka-example-0.9/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
-    <output url="file://$PROJECT_DIR$/classes" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false">
+    <output url="file://$PROJECT_DIR$/target/classes" />
   </component>
 </project>

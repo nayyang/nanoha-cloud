@@ -17,10 +17,11 @@
         <module name="nanoha-cloud-server-0" />
         <module name="nanoha-cloud-server-1" />
         <module name="nanoha-eureka-server" />
+        <module name="nanoha-kafka-example-0.9" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="nanoha-as" target="1.5" />
+      <module name="nanoha-as" target="8" />
       <module name="nanoha-base" target="8" />
       <module name="nanoha-boot-common" target="8" />
       <module name="nanoha-boot-demo" target="8" />
@@ -32,6 +33,7 @@
       <module name="nanoha-cloud-server-0" target="8" />
       <module name="nanoha-cloud-server-1" target="8" />
       <module name="nanoha-eureka-server" target="8" />
+      <module name="nanoha-kafka-example-0.9" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
