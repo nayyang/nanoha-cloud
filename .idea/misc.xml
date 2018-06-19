@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/nanoha-boot-common/pom.xml" />
+        <option value="$PROJECT_DIR$/nanoha-boot-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/nanoha-boot-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/nanoha-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/nanoha-cloud-common/pom.xml" />
+        <option value="$PROJECT_DIR$/nanoha-cloud-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/nanoha-cloud-reverse-proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/nanoha-cloud-server-0/pom.xml" />
+        <option value="$PROJECT_DIR$/nanoha-cloud-server-1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>

@@ -11,6 +11,15 @@
     <modules>
         <module>nanoha-eureka-server</module>
         <module>nanoha-base</module>
+        <module>nanoha-boot-common</module>
+        <module>nanoha-boot-demo</module>
+        <module>nanoha-boot-provider</module>
+        <module>nanoha-cloud-common</module>
+        <module>nanoha-cloud-config-server</module>
+        <module>nanoha-cloud-registry</module>
+        <module>nanoha-cloud-reverse-proxy</module>
+        <module>nanoha-cloud-server-0</module>
+        <module>nanoha-cloud-server-1</module>
     </modules>
 
 </project>

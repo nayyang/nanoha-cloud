@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nanoha.iml" filepath="$PROJECT_DIR$/nanoha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nanoha-base/nanoha-base.iml" filepath="$PROJECT_DIR$/nanoha-base/nanoha-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nanoha-boot-common/nanoha-boot-common.iml" filepath="$PROJECT_DIR$/nanoha-boot-common/nanoha-boot-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nanoha-boot-demo/nanoha-boot-demo.iml" filepath="$PROJECT_DIR$/nanoha-boot-demo/nanoha-boot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nanoha-boot-provider/nanoha-boot-provider.iml" filepath="$PROJECT_DIR$/nanoha-boot-provider/nanoha-boot-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nanoha-cloud-common/nanoha-cloud-common.iml" filepath="$PROJECT_DIR$/nanoha-cloud-common/nanoha-cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nanoha-cloud-config-server/nanoha-cloud-config-server.iml" filepath="$PROJECT_DIR$/nanoha-cloud-config-server/nanoha-cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nanoha-cloud-registry/nanoha-cloud-registry.iml" filepath="$PROJECT_DIR$/nanoha-cloud-registry/nanoha-cloud-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nanoha-cloud-reverse-proxy/nanoha-cloud-reverse-proxy.iml" filepath="$PROJECT_DIR$/nanoha-cloud-reverse-proxy/nanoha-cloud-reverse-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nanoha-cloud-server-0/nanoha-cloud-server-0.iml" filepath="$PROJECT_DIR$/nanoha-cloud-server-0/nanoha-cloud-server-0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nanoha-cloud-server-1/nanoha-cloud-server-1.iml" filepath="$PROJECT_DIR$/nanoha-cloud-server-1/nanoha-cloud-server-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nanoha-eureka-server/nanoha-eureka-server.iml" filepath="$PROJECT_DIR$/nanoha-eureka-server/nanoha-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nanoha-python/nanoha-python.iml" filepath="$PROJECT_DIR$/nanoha-python/nanoha-python.iml" />
+    </modules>
+  </component>
+</project>

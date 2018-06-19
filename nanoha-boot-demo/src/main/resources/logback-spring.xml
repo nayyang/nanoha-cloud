@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <include resource="org/springframework/boot/logging/logback/base.xml"/>
+    <!--<Logger name="org.apache.catalina.util.LifecycleBase" level="error" />-->
+    <!--<Logger name="org.apache.coyote.http11.Http11NioProtocol" level="warn" />-->
+    <!--<Logger name="org.apache.tomcat.util.net.NioSelectorPool" level="warn" />-->
+    <!--<Logger name="org.hibernate.validator.internal.util.Version" level="warn" />-->
+    <!--<Logger name="org.springframework" level="warn" />-->
+    <Logger name="com.cason" level="debug" />
+</configuration>
