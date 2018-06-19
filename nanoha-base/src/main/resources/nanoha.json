@@ -1,0 +1,25 @@
+{
+	"stat": "200",
+	"msg": "操作成功",
+	"data": {
+		"appId": "wx92e9180eeaa5e7ab",
+		"timeStamp": "1482307163",
+		"nonceStr": "80558612ab98d766888589db33dd2cca",
+		"prepayId": "wx201612211559230c7d84a0d80633094940",
+		"signType": null,
+		"sign": "08C17A3F791B5D705D4EC9EE48EB0A91",
+		"title": "云购云",
+		"partnerId": "1352325801",
+		"packages": "Sign=WXPay",
+		"signPlatformId": null,
+		"signTime": null,
+		"signValue": null,
+		"wxInputMap": {
+			"totalFee": "0.01",
+			"canBuyNextPeriod": "true",
+			"type": "0",
+			"noSerial": "1000020320161205150125446298279"
+		},
+		"wxInputJson": "{\"totalFee\":\"0.01\",\"canBuyNextPeriod\":\"true\",\"type\":\"0\",\"noSerial\":\"1000020320161205150125446298279\"}"
+	}
+}
