@@ -1,2 +1,0 @@
-# nanoha-p
-python

@@ -20,6 +20,8 @@
         <module>nanoha-cloud-reverse-proxy</module>
         <module>nanoha-cloud-server-0</module>
         <module>nanoha-cloud-server-1</module>
+        <module>nanoha-kafka-example-0.9</module>
     </modules>
+
 
 </project>

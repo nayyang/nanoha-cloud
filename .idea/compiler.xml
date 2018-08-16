@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <annotationProcessing>
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="nanoha-base" />
-        <module name="nanoha-boot-common" />
-        <module name="nanoha-boot-demo" />
-        <module name="nanoha-boot-provider" />
-        <module name="nanoha-cloud-common" />
-        <module name="nanoha-cloud-config-server" />
-        <module name="nanoha-cloud-registry" />
-        <module name="nanoha-cloud-reverse-proxy" />
-        <module name="nanoha-cloud-server-0" />
-        <module name="nanoha-cloud-server-1" />
-        <module name="nanoha-eureka-server" />
-        <module name="nanoha-kafka-example-0.9" />
-      </profile>
-    </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="nanoha-as" target="8" />
       <module name="nanoha-base" target="8" />
