@@ -10,6 +10,7 @@ public class Awards {
         List<String> lines = IOUtils.readLines(Awards.class.getResourceAsStream("/ad.txt"));
         for (String line : lines) {
             System.out.println(StringUtils.substringAfter(line, " "));
+
         }
     }
 }
